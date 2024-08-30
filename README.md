@@ -1,4 +1,5 @@
 "🪨📄✂️ Simple Rock-Paper-Scissors Game"
+
 🎮 Overview:
 This is a fun and simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript. Developed during the IT Shaala front-end bootcamp, it’s a quick and interactive way to play the classic game!
 
